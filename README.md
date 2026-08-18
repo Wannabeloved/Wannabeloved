@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [Opinionated Astro Template](https://github.com/Wannabeloved/astro-template)
 - 🌱 I’m currently learning [Rust](https://rust-lang.org/learn/), [Elixir](https://elixir-lang.org/learning/), and [Japanese](https://www.jlpt.jp/)
 - 💬 Ask me about ...
 - 📫 How to reach me: Telegram [@temk_me](https://t.me/temk_me)
